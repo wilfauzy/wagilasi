@@ -58,7 +58,6 @@ module.exports = {
         siteUrl: 'https://blog.wildanfauzy.com',
       },
     },
-    'gatsby-plugin-netlify',
     'gatsby-plugin-typescript',
     'gatsby-plugin-emotion',
     'gatsby-transformer-sharp',

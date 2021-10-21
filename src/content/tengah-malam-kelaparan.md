@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Cerita Pendek
 date: 2020-08-25T01:17:39Z
-guid: https://wildanfauzy.com/tengah-malam-kelaparan/
 image: /wp-content/uploads/2020/08/wp-1598293033898.jpg
-header-mask: 0.4
-id: 7234
 title: Tengah Malam Kelaparan
 url: /tengah-malam-kelaparan/
 ---
