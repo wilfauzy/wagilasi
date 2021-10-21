@@ -52,7 +52,8 @@
     "react-dom": "17.0.2",
     "react-emotion": "10.0.0",
     "react-helmet": "6.1.0",
-    "rehype-react": "7.0.3"
+    "rehype-react": "7.0.3",
+    "gatsby-plugin-netlify": "1.0.3"
   },
   "devDependencies": {
     "@types/lodash": "4.14.176",
