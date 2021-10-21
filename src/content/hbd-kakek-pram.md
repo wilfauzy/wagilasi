@@ -4,8 +4,6 @@ tags:
 - Share
 date: 2017-02-06T13:14:00Z
 image: /wp-content/uploads/2017/02/Pramoedya-Ananta-Toer.jpg
-tags:
-- pramoedya
 title: HBD Kakek Pram
 url: /hbd-kakek-pram/
 ---
