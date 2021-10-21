@@ -4,9 +4,6 @@ tags:
 - Note
 date: 2020-07-07T21:58:49Z
 image: /wp-content/uploads/2020/07/pexels-photo-3958561.jpeg
-tags:
-- boker
-- mules
 title: Kisah Mules
 url: /kisah-mules/
 ---
